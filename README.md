@@ -12,7 +12,7 @@ Projekat na kom su korisceni odredjeni alati sa kursa Alati za razvoj softvera s
 
 3. [CMake]
 
-4.
+4. [Git hook]
 
 5.
 
