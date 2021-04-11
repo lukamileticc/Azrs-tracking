@@ -8,7 +8,7 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/boards
 
 # Evidencija koriscenih alata
 
-1. _Sistem za verzionisanje softvera koji je koriscen na projektu TankAttack je Git, tacnije GitFlow_ (videti https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/17-tankattack)
+1. _Sistem za verzionisanje softvera koji je koriscen na projektu TankAttack je [Git](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/2), tacnije GitFlow_ (videti https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/17-tankattack)
 
 2. [_Valgrind_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/1)
 
