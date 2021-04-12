@@ -12,10 +12,12 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/issues
 
 2. [_Valgrind_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/1)
 
-3. [_CMake_]
+3. [_Docker_] (https://gitlab.com/lukamileticc/azrs-tracking/-/issues/3)
 
-4. [_Git hook_]
+4. [_CMake_]
 
-5.
+5. [_Git hook_]
+
+6.
 
 
