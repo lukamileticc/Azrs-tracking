@@ -14,7 +14,7 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/issues
 
 3. [_Docker_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/3)
 
-4. [_CMake_]
+4. [_CMake_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/4)
 
 5. [_Git hook_]
 
