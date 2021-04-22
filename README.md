@@ -20,4 +20,9 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/issues
 
 6. [_GammaRay_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/6)
 
+7. 
+
+8. 
+
+
 
