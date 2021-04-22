@@ -18,6 +18,6 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/issues
 
 5. [_Git hook_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/5)
 
-6.
+6. [_GammaRay_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/6)
 
 
