@@ -1,4 +1,4 @@
-# azrs-tracking
+# azrs-tracking :memo:
 
 **Ovaj repozitorijum sadrzi prikaz alata koji su korisceni na projektu iz Razvoja softvera.**
 
@@ -6,7 +6,7 @@ Projekat na kom su korisceni odredjeni alati sa kursa Alati za razvoj softvera s
 
 Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/boards
 
-# Evidencija koriscenih alata
+# Evidencija koriscenih alata :dart:
 
 1. _Sistem za verzionisanje softvera koji je koriscen na projektu TankAttack je [Git](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/2), tacnije GitFlow_ (videti https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/17-tankattack)
 
@@ -22,4 +22,10 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/boards
 
 7. [_GCov_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/7)
 
-8. 
+8. [_ClangTidy_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/8)
+
+9.
+
+#Developer :smile:
+
+[Luka Miletić, 91/2017](https://gitlab.com/lukamileticc) :man:
