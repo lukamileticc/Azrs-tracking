@@ -24,7 +24,7 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/boards
 
 8. [_ClangTidy_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/8)
 
-9. [_GDB Debbuger_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/9)
+9. [_GDB Debugger_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/9)
 
 10. [_ClangFormat_] 
 
