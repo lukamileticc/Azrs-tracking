@@ -26,6 +26,6 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/boards
 
 9.
 
-#Developer :smile:
+# Developer :smile:
 
 [Luka Miletić, 91/2017](https://gitlab.com/lukamileticc) :man:
