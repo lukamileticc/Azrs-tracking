@@ -26,7 +26,7 @@ Link ka kanban tabli: https://gitlab.com/lukamileticc/azrs-tracking/-/boards
 
 9. [_GDB Debugger_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/9)
 
-10. [_ClangFormat_] 
+10. [_ClangFormat_](https://gitlab.com/lukamileticc/azrs-tracking/-/issues/10)
 
 # Developer :smile:
 
